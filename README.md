@@ -1,2 +1,2 @@
-# horadodia.github.io
+# https://paladinoboy.github.io/horadodia/
 hora do dia
